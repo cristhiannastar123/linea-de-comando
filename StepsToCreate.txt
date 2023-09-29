@@ -1,0 +1,9 @@
+git clone 
+https://github.com/PFranciscoRojas/calidad-estudiantes.git
+
+git remote -v
+
+(si no estan configuradas sus credenciales)
+git config --global user.name = "user"
+git config --global user-mail = "mail"
+
